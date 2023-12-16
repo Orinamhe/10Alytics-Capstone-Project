@@ -10,7 +10,8 @@ You have been employed as a Data Analyst Super Sport Gaming Coy. You were asked 
 
 
 SQL PROJECT
-PROBLEM STATEMENT 
+PROBLEM STATEMENT
+
 Provide insights on the donors, donation frequency and donation value,and use these information to make recommendations.
 
 RECOMMENDATIONS
