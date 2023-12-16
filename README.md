@@ -4,6 +4,7 @@ Power BI and SQL capstone projects
 POWER BI PROJECT
 
 PROBLEM STATEMENT
+
 You have been employed as a Data Analyst Super Sport Gaming Coy. You were asked to perform a detailed five years analysis on FIFA world cup. 
 
 ![image](https://github.com/Orinamhe/10Alytics-Capstone-Project/assets/153821560/1d80bb5e-39f5-40e7-8f0a-8b64e560d250)
