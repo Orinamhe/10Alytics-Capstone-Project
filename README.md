@@ -1,5 +1,20 @@
 # 10Alytics-Capstone-Project
-Power BI and SQL capstone projects
+MS Excel, Power BI and SQL capstone projects
+
+MS Excel
+
+Tasked to combine data from several tables (flights, routes, aircraft and airport) to one main data source, used to present key insights to drive the business growth and position in the industry
+
+Processes
+
+Data cleaning of the various data was performed. Thereafter, INDEX and MATCH function was used to combine the data into one source. Pivot tables were created to obtain information with data visualisation also performed on MS Excel.
+
+Recommendations
+
+July -August accounted for the highest months of flight and this revenue. Highest revenue was however recorded in November, and this could help in positioning the company to make decisions to improve profit. The total revenue/flight count shows that A320 aircraft type had a higher ratio compared to A319 despite having one-third the flight count. This could be as a result of the fuel cost per mile of all aircraft types, with the A320 having the least cost.  Prioritizing this could also improve profits.
+
+![image](https://github.com/Orinamhe/10Alytics-Capstone-Project/assets/153821560/284ee6d9-4cf1-4a69-abd5-2bbd43fbbf5b)
+
 
 POWER BI PROJECT
 
